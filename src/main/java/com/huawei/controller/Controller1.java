@@ -29,5 +29,6 @@ public class Controller1 {
                 k++;
             } }
         System.out.println(x + " " +y + " " +k);
+        System.out.println("sp2的提交");
     }
 }
