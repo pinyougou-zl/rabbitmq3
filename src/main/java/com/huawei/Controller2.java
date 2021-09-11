@@ -14,7 +14,6 @@ public class Controller2 {
         list.add("zhangsan3");
         list.add("lisi3");
         list.add("wangwu3");
-        list.add("sp2====");
         return list;
     }
 }
