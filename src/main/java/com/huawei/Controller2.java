@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class Controller2 {
 
     @GetMapping("/test1")
-    public ArrayList test1(){
+    public ArrayList test1() {
         ArrayList<Object> list = new ArrayList<>();
         list.add("zhangsan3");
         list.add("lisi3");
@@ -18,6 +18,6 @@ public class Controller2 {
         list.add("sp111=======");
         list.add("sp2===");
         list.add("sp2============");
+        list.add("sp2==0912====02======");
         return list;
-    }
-}
+    }}
