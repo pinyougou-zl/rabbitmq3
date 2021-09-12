@@ -29,7 +29,6 @@ public class Controller1 {
                 k++;
             } }
         System.out.println(x + " " +y + " " +k);
-        System.out.println("sp1二次提交");
+		System.out.println("sp1二次提交");
         System.out.println("sp2的第三次提交");
-    }
-}
+}}

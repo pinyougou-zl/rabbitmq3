@@ -14,11 +14,9 @@ public class Controller2 {
         list.add("zhangsan3");
         list.add("lisi3");
         list.add("wangwu3");
-        list.add("sp1=======");
-        list.add("sp111=======");
-        list.add("sp2===");
+		list.add("sp1=======");
+        list.add("sp111=======");		list.add("sp2===");
         list.add("sp2============");
-        list.add("sp2==0912====01======");
-        return list;
+		list.add("sp2==0912====01======");        return list;
     }
 }
