@@ -15,7 +15,7 @@ public class Controller1 {
                 ++y;
                 k++;
             } }
-        System.out.println(x + " " +y + " " +k);
+        System.out.println(x + " " +x + " " +k);
     }
     @Test
     public void test6(){
@@ -31,5 +31,5 @@ public class Controller1 {
             }}
             System.out.println(x + " " + y + " " + k);
             System.out.println("sp1二次提交");
-            System.out.println("sp2的第三次提交");
+            System.out.println("sp22的第三次提交");
         }}
