@@ -38,9 +38,9 @@ public class Controller2 {
         list.add("sp1===02===06=");
         list.add("sp111=======");
         list.add("sp2====04===");
-        list.add("sp2==0912======");
+        list.add("sp2==");
 
         list.add("sp2============");
-        list.add("sp2==0912====03===04=");
+        list.add("sp2==1021");
         return list;
     }}
