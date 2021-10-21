@@ -15,7 +15,7 @@ public class Controller1 {
                 ++y;
                 k++;
             } }
-        System.out.println(x + " " +x + " " +k);
+        System.out.println(x + " x的值== " +x + " " +k);
     }
     @Test
     public void test6(){
