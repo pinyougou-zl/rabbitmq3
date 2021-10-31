@@ -35,12 +35,12 @@ public class Controller2 {
         list.add("zhangsan3====");
         list.add("lisi3");
         list.add("wangwu3");
-        list.add("sp1===02===06=");
+        list.add("sp1===1101===06=");
         list.add("sp111=======");
         list.add("sp2====04===");
  		list.add("sp2===02==="+"0912"+"02");
 
         list.add("sp2============");
-        list.add("sp2=="+"1021");
+        list.add("sp2=="+"1101");
         return list;
     }}
