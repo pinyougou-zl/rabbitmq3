@@ -18,7 +18,7 @@ public class Controller2 {
         list.add("sp22====04===2");
         list.add("sp22==0912====03======");
 
-        list.add("sp22============");
+        list.remove("sp22============");
         list.add("sp22==0912====03===04===");
         list.add("sp2==0912====03===04===");
         list.add("sp2==0912====03===04===");
@@ -36,11 +36,11 @@ public class Controller2 {
         list.add("chener");
         list.add("wangwu3");
         list.add("sp1===1101===06=");
-        list.remove("sp111=======");
+        list.add("ss111=======");
         list.add("sp2====04===");
  		list.add("sp2===02==="+"0912"+"02");
 
         list.add("sp2============");
-        list.remove("sp2=="+"1101");
+        list.add("sp2=="+"1011");
         return list;
     }}
