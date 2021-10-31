@@ -33,14 +33,14 @@ public class Controller2 {
     public ArrayList test1() {
         ArrayList<Object> list = new ArrayList<>();
         list.add("zhangsan3====");
-        list.add("lisi3");
+        list.add("chener");
         list.add("wangwu3");
         list.add("sp1===1101===06=");
-        list.add("sp111=======");
+        list.remove("sp111=======");
         list.add("sp2====04===");
  		list.add("sp2===02==="+"0912"+"02");
 
         list.add("sp2============");
-        list.add("sp2=="+"1101");
+        list.remove("sp2=="+"1101");
         return list;
     }}
