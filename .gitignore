@@ -39,13 +39,13 @@ hs_err_pid*
 .idea/**/contentModel.xml
 
 # Sensitive or high-churn files
-.idea/**/dataSources/
-.idea/**/dataSources.ids
-.idea/**/dataSources.local.xml
-.idea/**/sqlDataSources.xml
-.idea/**/dynamic.xml
-.idea/**/uiDesigner.xml
-.idea/**/dbnavigator.xml
+idea/**/dataSources/
+idea/**/dataSources.ids
+idea/**/dataSources.local.xml
+idea/**/sqlDataSources.xml
+idea/**/dynamic.xml
+idea/**/uiDesigner.xml
+idea/**/dbnavigator.xml
 
 # Gradle
 .idea/**/gradle.xml
@@ -55,11 +55,11 @@ hs_err_pid*
 # When using Gradle or Maven with auto-import, you should exclude module files,
 # since they will be recreated, and may cause churn.  Uncomment if using
 # auto-import.
-# .idea/modules.xml
-# .idea/*.iml
-# .idea/modules
-# *.iml
-# *.ipr
+ idea/modules.xml
+ idea/*.iml
+ idea/modules
+ *.iml
+ *.ipr
 
 # CMake
 cmake-build-*/
