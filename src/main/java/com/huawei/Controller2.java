@@ -16,7 +16,7 @@ public class Controller2 {
         list.add("sp1===022====");
         list.add("sp1211=======");
         list.add("sp22====04===2");
-        list.remove("sp22==0912====03======");
+        list.get(2);
 
         list.remove("sp22============");
         list.add("sp22==0912====03===04===");
@@ -24,8 +24,8 @@ public class Controller2 {
         list.add("sp2==0912====03===04===");
         list.add("sp2==0912====03===04===");
         list.add("sp2==0912====03===04===");
-        list.remove("sp2==0912====03===04===");
         list.add("sp22==0912====03===06==05=");
+        list.add("bbb");
         return list;
     }
 
@@ -34,13 +34,13 @@ public class Controller2 {
         ArrayList<Object> list = new ArrayList<>();
         list.add("zhangsan3====");
         list.add("chener");
-        list.add("wangwu3");
+        list.remove("wangwu3");
         list.add("sp1===1101===06=");
-        list.add("sp111=======");
+        list.add("sa111=======");
         list.add("sp2====04===");
  		list.add("sp2===02==="+"0912"+"02");
 
         list.add("sp2============");
-        list.add("sp2=="+"1101");
+        list.add("sp2=="+"1211"+"1");
         return list;
     }}
