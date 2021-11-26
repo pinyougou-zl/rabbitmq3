@@ -4,6 +4,7 @@ public class Student {
     Integer id;
     String name;
     String grade;
+    Integer age;
 
     public Integer getId() {
         return id;
