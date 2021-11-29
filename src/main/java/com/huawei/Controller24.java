@@ -13,7 +13,7 @@ public class Controller24 {
      @PostMapping("/test2")
     public ArrayList test22() {
         ArrayList<Object> list = new ArrayList<>();
-        list.add("wangwu222");
+        list.add("wangwu000");
   		list.add("aaaa");
   		return list;
     }
@@ -21,7 +21,7 @@ public class Controller24 {
     @GetMapping("/test1")
     public ArrayList test1() {
         ArrayList<Object> list = new ArrayList<>();
-        list.add("zhangsa222");
+        list.add("zhangsa000");
         list.add("chener");
         return list;
     }
