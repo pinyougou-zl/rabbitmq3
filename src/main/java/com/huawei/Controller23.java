@@ -10,11 +10,11 @@ import java.util.ArrayList;
 @RestController
 public class Controller23 {
 
-    @PostMapping("/test231")
+    @PostMapping("/test2")
     public User test3(@RequestBody User user) {
         user.setUserID(user.getUserID()+1000);
         user.setName(user.getName()+"chener");
-        user.setAge(user.getAge()-10);
+        user.setAge(user.getAge()-11);
         return user;
     }
 }
